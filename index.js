@@ -44,8 +44,9 @@ const questions = [
     },
     {
         type:'input',
-        name:'questions',
-        message: 'Please provide any additional information or instructions for using your project:'
+        name:'Contact',
+        message: 'What is your Github username?',
+        message: 'What is your email address?'
 
     },
 ];
