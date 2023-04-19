@@ -31,6 +31,11 @@ const questions = [
         message: 'Please provide instructions for using your project:'
     },
     {
+        type:'input',
+        name:'contributing',
+        message: 'Please provide guidelines for how others can contribute to your project:'
+    },  
+    {
         type:'list',
         name:'license',
         message: 'What is the license for your project?',
