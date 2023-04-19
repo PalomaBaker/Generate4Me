@@ -53,6 +53,16 @@ const questions = [
     },
 ];
 
+//function to write README file
+function writeToFile(fileName, data){
+    fs.writeFile(fileName, data, err => {
+        if(err){
+            console.log(err);
+            return;
+        }
+        console.log('Your README file has been generated!');
+    });
+}
 
 //function to initialize app
 function init(){
