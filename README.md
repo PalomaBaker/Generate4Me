@@ -10,9 +10,11 @@
 ## Node.js is needed to run this project as intended. Once Node.JS is installed locally, clone the repo. 
 
 
-# Usage:
+# Usage
+
 ## To use, open the file in the local terminal. Run npm i to install the dependencies, then run 'node index.js' in the command line, and follow the series of prompts.
 
 
 # Contact
-##If you have any questions about the repo, open an issue or contact me directly at paloma.d.baker@gmail.com. You can find more of my work at [PalomaBaker](https://github.com/PalomaBaker/).
+
+## If you have any questions about the repo, open an issue or contact me directly at paloma.d.baker@gmail.com. You can find more of my work at [PalomaBaker](https://github.com/PalomaBaker/).
